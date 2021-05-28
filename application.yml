@@ -1,4 +1,4 @@
-environment: QA
+environment: DEVELOP
 app-name-order: order-service
 app-name-user: user-service
  
